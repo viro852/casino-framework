@@ -5,44 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09eafe4e-720f-4bd9-9ab4-55c68fa1475a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/api/actions/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/api/specifiations/Specifications.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/managers/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/managers/InitManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/managers/PageManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/managers/PropertyManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/cucumber_steps/AdminPanelPageStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/cucumber_steps/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/cucumber_steps/LoginPageStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/cucumber_steps/PlayerManagementSectionStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/pages/AdminPanelPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/pages/section/PlayerManagementSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/utils/PropConsts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/slotegrator/framework/api/BaseApiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/slotegrator/framework/api/CasinoTestApiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/slotegrator/framework/ui/BaseUITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/slotegrator/framework/ui/CasinoTestAppUITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/slotegrator/framework/ui/CucumberRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/SuffixOfPlayerAttributes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/getGuestTokenBody.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/getPlayerTokenBody.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/guest_auth_token.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/player_auth_token.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/registeredPlayerId.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/scenario/scenario.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/successPlayerRegistration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/cucumber_steps/PlayerManagementSectionStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/cucumber_steps/PlayerManagementSectionStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/pages/AdminPanelPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/pages/AdminPanelPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/pages/section/PlayerManagementSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/pages/section/PlayerManagementSection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +27,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2DqmsBTN2hL0KmDGi0EfpA7umey" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -175,7 +144,7 @@
       <workItem from="1661758200387" duration="4052000" />
       <workItem from="1661766820144" duration="20999000" />
       <workItem from="1661843140896" duration="20054000" />
-      <workItem from="1661870349409" duration="316000" />
+      <workItem from="1661870349409" duration="1960000" />
     </task>
     <servers />
   </component>

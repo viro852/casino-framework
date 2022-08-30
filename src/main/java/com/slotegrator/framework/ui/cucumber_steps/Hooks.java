@@ -8,9 +8,9 @@ import io.cucumber.java.After;
 import io.cucumber.java.Before;
 
 public class Hooks {
-   private DriverManager driverManager = DriverManager.getDriverManager();
+    private DriverManager driverManager = DriverManager.getDriverManager();
 
-   private PropertyManager propertyManager = PropertyManager.getPropertyManager();
+    private PropertyManager propertyManager = PropertyManager.getPropertyManager();
 
     @Before
     public void before() {

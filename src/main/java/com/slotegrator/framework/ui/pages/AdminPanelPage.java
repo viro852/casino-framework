@@ -9,10 +9,10 @@ import org.openqa.selenium.support.FindBy;
 public class AdminPanelPage extends BasePage {
 
     @FindBy(xpath = "//span[contains(text(),'Users')]")
-    WebElement usersButton;
+    private WebElement usersButton;
 
     @FindBy(xpath = "//ul[@id='s-menu-users']//a[text()='Players']")
-    WebElement playersButton;
+    private WebElement playersButton;
 
 
     public AdminPanelPage clickUsersButton() {

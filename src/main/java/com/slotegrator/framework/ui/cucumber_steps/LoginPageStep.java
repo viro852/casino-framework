@@ -12,6 +12,7 @@ public class LoginPageStep {
     public void checkOpenLoginPage() {
         pageManager.getPage(LoginPage.class).checkOpenPage();
     }
+
     @And("Проходим аутентификацию для доступа в панель администратора")
     public void fillAuthForm() {
         pageManager.getPage(LoginPage.class).fillAuthForm();

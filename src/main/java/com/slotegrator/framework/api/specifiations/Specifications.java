@@ -55,7 +55,7 @@ public class Specifications {
 
         return new RequestSpecBuilder()
                 .setBaseUri(baseUrl)
-                .setContentType("application/json")  
+                .setContentType("application/json")
                 .setBody(requestBody)
                 .log(LogDetail.ALL)
                 .build();
@@ -72,7 +72,7 @@ public class Specifications {
     public static RequestSpecification getSuccessPlayerProfileDataReqSpec(String baseUrl) {
         return new RequestSpecBuilder()
                 .setBaseUri(baseUrl)
-                .addHeader("Authorization",Utils.readDataFromFile("player_auth_token.txt"))
+                .addHeader("Authorization", Utils.readDataFromFile("player_auth_token.txt"))
                 .log(LogDetail.ALL)
                 .build();
     }
@@ -88,7 +88,7 @@ public class Specifications {
     public static RequestSpecification getUnsuccessPlayerProfileDataReqSpec(String baseUrl) {
         return new RequestSpecBuilder()
                 .setBaseUri(baseUrl)
-                .addHeader("Authorization",Utils.readDataFromFile("player_auth_token.txt"))
+                .addHeader("Authorization", Utils.readDataFromFile("player_auth_token.txt"))
                 .log(LogDetail.ALL)
                 .build();
     }

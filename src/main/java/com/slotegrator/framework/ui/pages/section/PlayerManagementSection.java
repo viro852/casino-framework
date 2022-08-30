@@ -1,7 +1,7 @@
 package com.slotegrator.framework.ui.pages.section;
 
-import com.slotegrator.framework.ui.pages.AdminPanelPage;
 import com.slotegrator.framework.ui.BasePage;
+import com.slotegrator.framework.ui.pages.AdminPanelPage;
 import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 public class PlayerManagementSection extends BasePage {
 
     @FindBy(xpath = "//a[contains(text(),'Registration date')]")
-    WebElement registrationDateColumnHeader;
+    private WebElement registrationDateColumnHeader;
 
     public PlayerManagementSection clickRegistrationDateColumnHeader() {
         click(registrationDateColumnHeader);

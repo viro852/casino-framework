@@ -135,9 +135,9 @@ public class Player extends BasePage {
                 .extract().response();
 
         JsonPath jsonPath = response.jsonPath();
-        String msq=jsonPath.getString("message");
+        String msq = jsonPath.getString("message");
 
-        Assertions.assertEquals("Object not found: "+id+"", msq);
+        Assertions.assertEquals("Object not found: " + id + "", msq);
 
         return this;
     }

@@ -22,8 +22,8 @@ public class PropertyManager {
         return propertyManager;
     }
 
-    public String getProperty(String key){
-       return properties.getProperty(key);
+    public String getProperty(String key) {
+        return properties.getProperty(key);
     }
 
     private void loadPropertiesFromFile() {
