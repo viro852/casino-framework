@@ -1,0 +1,8 @@
+{
+  "username": "test{replace}",
+  "password_change": "amFuZWRvZTEyMw==",
+  "password_repeat": "amFuZWRvZTEyMw==",
+  "email": "automation{replace}@example.com",
+  "name": "Automation{replace}",
+  "surname": "Automation{replace}"
+}

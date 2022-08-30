@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09eafe4e-720f-4bd9-9ab4-55c68fa1475a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/api/actions/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/api/specifiations/Specifications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/managers/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/managers/InitManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/managers/PageManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/managers/PropertyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/cucumber_steps/AdminPanelPageStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/cucumber_steps/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/cucumber_steps/LoginPageStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/cucumber_steps/PlayerManagementSectionStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/pages/AdminPanelPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/ui/pages/section/PlayerManagementSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/utils/PropConsts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slotegrator/framework/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slotegrator/framework/api/BaseApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slotegrator/framework/api/CasinoTestApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slotegrator/framework/ui/BaseUITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slotegrator/framework/ui/CasinoTestAppUITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/slotegrator/framework/ui/CucumberRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/SuffixOfPlayerAttributes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/getGuestTokenBody.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/getPlayerTokenBody.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/guest_auth_token.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/player_auth_token.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/registeredPlayerId.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/scenario/scenario.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/successPlayerRegistration.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DqmsBTN2hL0KmDGi0EfpA7umey" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/Documents/casino-framework",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\slotegrator-test\src\test\resources" />
+      <recent name="C:\Users\User\Documents\slotegrator-test\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\slotegrator-test\src\test\resources" />
+      <recent name="C:\Users\User\Documents\slotegrator-test\src\test\resources\api" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.slotegrator.framework.ui" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.slotegrator.framework.ui.cucumber_steps" />
+      <recent name="com.slotegrator.framework.api" />
+      <recent name="com.slotegrator.framework.utils" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn clean test -Dbase.api.login=front_2d6b0a8391742f5d789d7d915755e09e" />
+      <command value="mvn clean test -Dbase.api.login=front_2d6b0a8391742f5d789d7d915755e09e  -Dbase.api.password=front_2d6b0a8391742f5d789d7d915755e09e" />
+      <command value="mvn clean test  -Dbase.api.login=front_2d6b0a8391742f5d789d7d915755e09e   -Dbase.api.password=front_2d6b0a8391742f5d789d7d915755e09e -Dbase.ui.login=admin1 -Dbase.ui.password=[9k&lt;k8^z!+$$GkuP" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Проверка сортировки">
+    <configuration name="Scenario: Проверка сортировки" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/scenario/scenario.feature" />
+      <option name="GLUE" value="com.slotegrator.framework.ui.cucumber_steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="slotegrator-test" />
+      <option name="NAME_FILTER" value="^Проверка сортировки$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Проверка сортировки$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Проверка сортировки" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CasinoTestApiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="slotegrator-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.slotegrator.framework.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.slotegrator.framework.api" />
+      <option name="MAIN_CLASS_NAME" value="com.slotegrator.framework.api.CasinoTestApiTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <envs>
+        <env name="-Dbase.api.login" value="front_2d6b0a8391742f5d789d7d915755e09e" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Scenario: Проверка сортировки" />
+      <item itemvalue="JUnit.CasinoTestApiTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Проверка сортировки" />
+        <item itemvalue="JUnit.CasinoTestApiTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09eafe4e-720f-4bd9-9ab4-55c68fa1475a" name="Changes" comment="" />
+      <created>1661435216309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661435216309</updated>
+      <workItem from="1661435218951" duration="29090000" />
+      <workItem from="1661577521301" duration="16000" />
+      <workItem from="1661758200387" duration="4052000" />
+      <workItem from="1661766820144" duration="20999000" />
+      <workItem from="1661843140896" duration="20054000" />
+      <workItem from="1661870349409" duration="316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
